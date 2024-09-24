@@ -565,3 +565,5 @@
 /node_modules/mongodb/lib/cmap/auth/x509.js
 /node_modules/mongodb/lib/cmap/auth/x509.js.map
 /node_modules/mongodb/src/cmap/auth/x509.ts
+/tsconfig.json
+/mongoDB-client-for-practice.iml
