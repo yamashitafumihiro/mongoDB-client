@@ -1,8 +1,16 @@
 # デフォルトの無視対象ファイル
 /shelf/
 /workspace.xml
+/modules.xml
+/vcs.xml
 # エディターベースの HTTP クライアントリクエスト
 /httpRequests/
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+/root/
+./codeStyles/codeStyleConfig.xml
+../package-lock.json
+../package.json
+../tsconfig.json
